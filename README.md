@@ -38,8 +38,8 @@
 | **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Toast UI Editor](https://img.shields.io/badge/Toast_UI_Editor-515CE6?style=flat-square&logoColor=white) |
 | **Mobile** | ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) |
-| **AI / Edge** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Jetson](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![EmbeddingGemma](https://img.shields.io/badge/EmbeddingGemma-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Tesseract OCR](https://img.shields.io/badge/Tesseract.js_OCR-3A3A3A?style=flat-square&logoColor=white) |
-| **Data / IoT** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB_(Dexie.js)-FF6B00?style=flat-square&logoColor=white) |
+| **AI / Edge** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Jetson](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![EmbeddingGemma](https://img.shields.io/badge/EmbeddingGemma-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Tesseract OCR](https://img.shields.io/badge/Tesseract.js_OCR-3A3A3A?style=flat-square&logoColor=white) |
+| **Data / IoT** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB_(Dexie.js)-FF6B00?style=flat-square&logoColor=white) |
 | **Infra / DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Spec Kit](https://img.shields.io/badge/GitHub_Spec_Kit-24292F?style=flat-square&logo=github&logoColor=white) |
 
@@ -51,7 +51,7 @@
 |---|---|---|---|
 | 🍀 **세잎지도** | 보행 약자에게 지금 상황에 맞는 길을 안내하는 길찾기 앱 | 2026.10 ~ 11 · 4인 팀 (서버 · AI 비서) | Java · Spring Boot · MySQL · Gemini |
 | 📝 **blogproject** | 티스토리형 블로그 서비스 | 2026.10 · 4인 기획 / 구현 단독 | Spring Boot · Docker · Nginx · GitHub Actions |
-| 🧹 **TIDY:** | 가계부·할 일·스크랩을 한곳에 모은 생활 정리 앱 | 2026.11 ~ · 개인 | React · TypeScript · Capacitor · Claude API |
+| 🧹 **TIDY:** | 가계부·할 일·스크랩을 한곳에 모은 생활 정리 앱 | 2026.11 ~ · 개인 | React · TypeScript · Capacitor · Firebase · Gemini |
 | 📈 **timeseries-inference** | 엣지 시계열 예측·이상 탐지 서비스 | 2026.11 · 팀(Team 2) | Python · MQTT · TensorRT |
 | 🧠 **embedding_gemma2** | Jetson 멀티모달 임베딩·비전 응용 | 2026.11 · 팀(Team 2) | PyTorch · EmbeddingGemma 2 · YOLO · GRU |
 | 📷 **jetson-camera-applications** | Jetson 카메라 응용 실습 (과제 1~6) | 2026.11 · 팀(Team 2) | Python · TensorRT · YOLO · GRU · systemd |
@@ -156,11 +156,12 @@
 **내가 한 일**
 - Spec Kit으로 헌법(원칙 5개) → 요구사항 → 구현 계획 → **74개 작업 / 7일 스프린트**로 1차 MVP 완성
 - **하나의 코드로 4개 환경** 지원: 폰 웹 · 컴퓨터 웹(PWA 설치) · Android/iOS 앱(Capacitor)
-- **서버·로그인 없이** 기기 안 IndexedDB(Dexie.js)에 저장 → 인터넷 없이 동작, JSON 백업 내보내기/가져오기
+- 기본은 기기 안 IndexedDB(Dexie.js)에 저장해 인터넷 없이 동작, **구글 로그인(Firebase)을 하면 Firestore로 폰·컴퓨터 기록 동기화** (로그인 없이 쓰기도 가능)
 - 스크랩 → 할 일 전환, 그 할 일을 끝내면 스크랩도 자동으로 읽음 처리하는 **기능 연동**
-- **AI 비서** (Claude API + Vercel 서버 함수, API 키는 서버에만 보관): 포스터 사진 → 캘린더, 결제 캡처 → 가계부, 오늘 이야기 → 일기
+- **AI 비서** (무료 Gemini, 한도 넘으면 Groq로 대신 · Vercel 서버 함수, API 키는 서버에만 보관): 포스터 사진 → 캘린더, 결제 캡처 → 가계부, 오늘 이야기 → 일기
 - AI 없이도 쓰도록 **기기 안 OCR**(Tesseract.js)로 은행·카드 캡처를 읽어 가계부 입력
-- GitHub Actions로 **Android APK 자동 빌드**
+- 구글 캘린더 연동, 앱 잠금(비밀번호 · 지문), JSON 백업과 폰 앱 자동 백업
+- GitHub Actions로 **Android APK 자동 빌드**, 앱 안에서 새 버전 알림 · 바로 업데이트
 
 <table>
   <tr>
@@ -173,13 +174,13 @@
   </tr>
 </table>
 
-**Stack** : React 19 · TypeScript · Vite · Tailwind CSS · Dexie.js · Capacitor · PWA · Claude API · Tesseract.js · Vercel · Vitest
+**Stack** : React 19 · TypeScript · Vite · Tailwind CSS · Dexie.js · Capacitor · PWA · Firebase (Auth · Firestore) · Gemini API · Tesseract.js · Vercel · Vitest
 
 | 진행 | 내용 |
 |---|---|
 | ✅ 1차 MVP | 가계부 · 할 일 · 스크랩 · 대시보드 · 백업 · PWA · 폰 앱 준비 |
-| ✅ 2차 (일부) | 캘린더, 가게 로고, 정기 내역·월급 D-day, 차트·통계, 음식 사진 기록, 다크 모드, 적금 |
-| 🛠 예정 | 구글 로그인 + 기기 간 동기화 |
+| ✅ 2차 | 캘린더, **구글 로그인 + 기기 간 동기화**(Firebase · Firestore), AI 캡처 입력, 가게 로고, 정기 내역·월급 D-day, 차트·통계, 음식 사진 기록, 다크 모드, 적금 |
+| ✅ 그 뒤 추가 | 구글 캘린더 연동, 앱 잠금(비밀번호 · 지문), 앱 안 업데이트, 폰 앱 자동 백업 |
 
 ---
 
