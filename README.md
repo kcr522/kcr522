@@ -273,6 +273,6 @@ EmbeddingGemma 2를 8GB 보드에 올려 텍스트·영상·음성 임베딩을 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kcr522&show_icons=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kcr522&show_icons=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcr522&layout=compact" height="160"/>
 </p>
