@@ -15,15 +15,18 @@
 
 <table>
   <tr>
-    <th width="50%">🍀 세잎지도 포트폴리오</th>
-    <th width="50%">🙋 개인 소개 포트폴리오</th>
+    <th width="33%">🍀 세잎지도 포트폴리오</th>
+    <th width="33%">✨ Tidy 포트폴리오</th>
+    <th width="33%">🙋 개인 소개 포트폴리오</th>
   </tr>
   <tr>
     <td align="center"><a href="./portfolio/safe-route-portfolio.pdf"><img src="./portfolio/safe-route-cover.jpg" alt="세잎지도 포트폴리오 표지" width="100%"></a></td>
+    <td align="center"><a href="./portfolio/tidy-portfolio.pdf"><img src="./portfolio/tidy-cover.jpg" alt="Tidy 포트폴리오 표지" width="100%"></a></td>
     <td align="center"><br><b>준비 중입니다</b><br><br></td>
   </tr>
   <tr>
     <td>보행 약자 안전 길찾기 · 서버 API 전체 · AI 비서 담당 · 16장<br><a href="./portfolio/safe-route-portfolio.pdf">📄 PDF 보기</a></td>
+    <td>가계부 · 할 일 · 스크랩 통합 앱 · 1인 개발 (기획 · 디자인 · 개발) · 32장<br><a href="./portfolio/tidy-portfolio.pdf">📄 PDF 보기</a></td>
     <td>자기소개 · 기술 · 경력 · 프로젝트 모음<br>곧 올릴 예정</td>
   </tr>
 </table>
